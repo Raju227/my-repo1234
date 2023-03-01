@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "http://44.204.3.43:8081/repository/mynpm/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
