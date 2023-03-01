@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
+  "publishConfig": {
+    "registry": "http://44.204.3.43:8081/repository/mynpm/"
+  },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
     "start1": "nodemon app.js",
@@ -23,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://13.212.29.25:9980/mithuntechnologies/repository/nodejsproject/"
+    "url": "https://github.com/Raju227/my-repo1234.git"
   },
   "keywords": [
     "node",
